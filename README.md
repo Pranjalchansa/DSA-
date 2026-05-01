@@ -17,8 +17,8 @@ This repository contains my practice solutions for **Data Structures and Algorit
 
 The main objective of this repository is to:
 
-* Practice Java programming
-* Develop strong problem-solving skills
+* Practice Java programming.
+* Develop strong problem-solving skills.
 * Prepare for coding interviews and technical assessments
 * Build a structured collection of DSA solutions
 
