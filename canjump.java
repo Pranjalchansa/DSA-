@@ -14,5 +14,5 @@ public static void main(String args[]){
     boolean maxjump=canJump(nums);
     System.out.println("Can we jump to the end of the array? ");
     System.out.println(maxjump);
-} 
+  } 
 }
