@@ -17,7 +17,6 @@ class containsDuplicate217lc {
 
         return false;
     }
-
     public static void main(String[] args) {
 
         containsDuplicate217lc obj = new containsDuplicate217lc();
