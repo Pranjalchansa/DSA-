@@ -43,9 +43,14 @@ Pranjal Chansauriya
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Pranjalchansa/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Pranjalchansa/DSA-/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pranjalchansa/DSA-/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Pranjalchansa/DSA-/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
